@@ -7,6 +7,6 @@ My name's Tanattha Thuenim</br>
 • I have so many experiences in the organization and business. </br>
 • I'm a fast learner and love to learn new things.</br>
 
-[RESUME](https://www.linkedin.com/in/tanattha-thuenim-5b67b31b3/)</br>
+[RESUME ON LINKEDIN](https://www.linkedin.com/in/tanattha-thuenim-5b67b31b3/)</br>
 
 Feel free to take a look on my pinned project and leave any comment!
