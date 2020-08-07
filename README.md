@@ -9,4 +9,4 @@ My name's Tanattha Thuenim</br>
 
 [RESUME ON LINKEDIN](https://www.linkedin.com/in/tanattha-thuenim-5b67b31b3/)</br>
 
-### Feel free to take a look on my pinned project and leave any comment!
+### Feel free to take a look on my pinned projects and leave any comment!
