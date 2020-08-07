@@ -4,11 +4,11 @@
 • You can call me Bo, my nickname 😄 </br>
 • I'm originally from Thailand 🇹🇭 but I've living around DMV area for more than 3 yrs. </br>
 • I'm studying and doing great in Software Engineering at Flatiron School (It'll end on Sep). </br>
-• I'm Looking for software engineering related opportunities.💻 </br>
+• I'm Looking for software engineering related opportunities. 💻 </br>
 • I love coding and IT stuff since I was young. </br>
 • I have so many experiences in the organization and business.  </br>
 • I used to be a Programmer in Thailand for 3 yrs and IT Specialist for 2 yrs. </br>
-• I'm a fast learner 🤓 and love to learn new things.</br>
+• I'm a fast learner 🤓  and love to learn new things.</br>
 
 ### Feel free to take a look on my pinned projects and leave any comment!
 
