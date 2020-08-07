@@ -13,5 +13,5 @@
 
 ## 📞 Contact me :<a href="https://github.com/Tanattha"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - [RESUME ON LINKEDIN](https://www.linkedin.com/in/tanattha-thuenim-5b67b31b3/)</br>
-- [EMAIL] <a href="mailto:tanattha.thuenim@gmail.com"> 
+- [EMAIL](mailto:tanattha.thuenim@gmail.com")
 
