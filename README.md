@@ -1,11 +1,11 @@
 ### Hi there 👋  
 
 My name's Tanattha Thuenim</br>
-•I'm studying and doing great in Software Engineering at Flatiron School (It'll end on Sep). </br>
-•I'm Looking for software engineering related opportunities. </br>
-•I love coding and IT stuff since I was young. </br>
-•I have so many experiences in the organization and business. </br>
-•I'm a fast learner and love to learn new things.</br>
+• I'm studying and doing great in Software Engineering at Flatiron School (It'll end on Sep). </br>
+• I'm Looking for software engineering related opportunities. </br>
+• I love coding and IT stuff since I was young. </br>
+• I have so many experiences in the organization and business. </br>
+• I'm a fast learner and love to learn new things.</br>
 
 [RESUME](https://www.linkedin.com/in/tanattha-thuenim-5b67b31b3/)</br>
 
