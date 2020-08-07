@@ -1,4 +1,4 @@
-### Hi there 👋  
+## Hi there 👋  
 
 My name's Tanattha Thuenim</br>
 • I'm studying and doing great in Software Engineering at Flatiron School (It'll end on Sep). </br>
@@ -9,4 +9,4 @@ My name's Tanattha Thuenim</br>
 
 [RESUME ON LINKEDIN](https://www.linkedin.com/in/tanattha-thuenim-5b67b31b3/)</br>
 
-## Feel free to take a look on my pinned project and leave any comment!
+### Feel free to take a look on my pinned project and leave any comment!
