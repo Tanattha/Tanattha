@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-My name's Tanattha Thuenim
+My name's Tanattha Thuenim</br>
 •I'm studying and doing great in Software Engineering at Flatiron School (It'll end on Sep). </br>
 •I'm Looking for software engineering related opportunities. </br>
 •I love coding and IT stuff since I was young. </br>
