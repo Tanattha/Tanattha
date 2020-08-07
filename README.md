@@ -9,7 +9,7 @@
 
 ### Feel free to take a look on my pinned projects and leave any comment!
 
-## Contact me 👩🏻 📧 <a href="https://github.com/Tanattha"><img align="left" width="150" height="150" src="https://media.giphy.com/media/3o6Mbfsf4DI4Cds5Ms/giphy.gif"></a>
+## Contact me 👩🏻 📧 <a href="https://github.com/Tanattha"><img align="left" width="150" height="150" src="https://media.giphy.com/media/xUOwGhauv1d6nceRbi/giphy.gif"></a>
 - [RESUME ON LINKEDIN](https://www.linkedin.com/in/tanattha-thuenim-5b67b31b3/)</br>
 - [EMAIL](mailto:tanattha.thuenim@gmail.com")
 
