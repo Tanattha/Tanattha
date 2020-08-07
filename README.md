@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif" />
+<img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif" width="240" height="200" />
 
 My name's Tanattha Thuenim</br>
 • I'm studying and doing great in Software Engineering at Flatiron School (It'll end on Sep). </br>
