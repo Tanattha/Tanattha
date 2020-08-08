@@ -15,7 +15,7 @@
 ## Contact me 👩🏻 📧 <img src="https://media.giphy.com/media/huDbeRCslqAWRJpRJA/giphy.gif" align="left" width="150" height="150"/>
 
 - [DOWNLOAD RESUME](./Resume-Tanattha-Thuenim.pdf)</br> 
-<a href="Tanattha.github.io/Resume-Tanattha-Thuenim.pdf.pdf" target="_blank">PDF.</a>
+<a href="./Resume-Tanattha-Thuenim.pdf" target="_blank">PDF</a>
 - [RESUME ON LINKEDIN](https://www.linkedin.com/in/tanattha-thuenim-5b67b31b3/)</br>
 - [EMAIL](mailto:tanattha.thuenim@gmail.com")
 
