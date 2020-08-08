@@ -14,7 +14,7 @@
 
 ## Contact me 👩🏻 📧 <img src="https://media.giphy.com/media/huDbeRCslqAWRJpRJA/giphy.gif" align="left" width="150" height="150"/>
 
-- [RESUME (.PDF)](https://drive.google.com/file/d/1HUI2hW3x6XvF2j328RS5nno5gKv8e65k/view?usp=sharing)</br> 
+- [RESUME (.PDF)](https://drive.google.com/file/d/1HUI2hW3x6XvF2j328RS5nno5gKv8e65k/view?usp=sharing target="_blank")</br> 
 - [RESUME ON LINKEDIN](https://www.linkedin.com/in/tanattha-thuenim-5b67b31b3/)</br>
 - [EMAIL](mailto:tanattha.thuenim@gmail.com")
 
