@@ -20,6 +20,6 @@
 </br>
 <hr>
 
-[![Tanattha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanattha&hide=stars&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanattha&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Tanattha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanattha&hide=stars&count_private=true&show_icons=true&theme=vue)](https://github.com/Tanattha/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanattha&layout=compact&theme=vue)](https://github.com/Tanattha/github-readme-stats)
 
