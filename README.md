@@ -20,5 +20,5 @@
 </br>
 <hr>
 
-![Tanattha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanattha&hide=stars&count_private=true&show_icons=true&theme=vue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanattha&layout=compact&theme=vue)
+![Tanattha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanattha&hide=stars&count_private=true&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanattha&layout=compact&theme=radical)
