@@ -17,4 +17,9 @@
 - [RESUME (.PDF)](https://drive.google.com/file/d/1FkBOPaBidPZpVPVx1gFlQCsVH1E1iGiX/view?usp=sharing) </br> 
 - [RESUME ON LINKEDIN](https://www.linkedin.com/in/tanattha-thuenim-5b67b31b3/)</br>
 - [EMAIL](mailto:tanattha.thuenim@gmail.com")
+</br>
+<hr>
+
+[![Tanattha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanattha&hide=stars&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanattha&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
