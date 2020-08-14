@@ -1,5 +1,5 @@
 
-# Hi, I'm Tanattha Thuenim  <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif" width="240" height="200" />
+# Hi, I'm Tanattha Thuenim (Bo)  <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif" width="240" height="200" />
 #### • I'm Looking for software engineering related opportunities.👀 💻 </br>
 
 • I'm originally from Thailand 🇹🇭 but I've been living around DMV area for more than 3 yrs. </br>
