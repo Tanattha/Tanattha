@@ -5,7 +5,7 @@
 • I'm originally from Thailand 🇹🇭 but I've been living around DMV area for more than 3 yrs. </br>
 • I'm studying and doing great in Software Engineering at Flatiron School (It'll end on Sep). </br>
 • I have been passionate about coding and IT since I was young. </br>
-• I have so many experiences in the organization 🏢 and business.  </br>
+• I have many experiences in the organization 🏢 and business.  </br>
 • I used to be a Programmer in Thailand for 3 yrs and IT Specialist for 2 yrs. </br>
 • I'm a fast learner 🤓  and love to learn new things.</br>
 
