@@ -12,7 +12,7 @@
 ### 🔸 Feel free to take a look on my pinned projects and leave any comment!
 
 ## Contact me 👩🏻 📧 <img src="https://media.giphy.com/media/huDbeRCslqAWRJpRJA/giphy.gif" align="left" width="150" height="150"/>
-
+- [PERSONAL WEBSITE](http://www.tanattha.info)
 - [RESUME (.PDF)](https://drive.google.com/file/d/169zgTCotzgr6HF1of82z5PEOYti9-ZI6/view?usp=sharing) </br> 
 - [RESUME ON LINKEDIN](https://www.linkedin.com/in/tanattha-thuenim-5b67b31b3/)</br>
 - [EMAIL](mailto:tanattha.thuenim@gmail.com")
