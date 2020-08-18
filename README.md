@@ -9,7 +9,7 @@
 • I used to be a Programmer in Thailand for 3 yrs and IT Specialist for 2 yrs. </br>
 • I'm a fast learner 🤓  and love to learn new things.</br>
 
-### 🔸 Feel free to take a look on my pinned projects and leave any comment!
+### 🔸 Feel free to take a look on my repositories or leave any comment.
 
 ## Contact me 👩🏻 📧 <img src="https://media.giphy.com/media/huDbeRCslqAWRJpRJA/giphy.gif" align="left" width="150" height="150"/>
 - [MY WEBSITE](http://www.tanattha.info)
