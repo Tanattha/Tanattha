@@ -3,7 +3,7 @@
 #### • I'm Looking for software engineering related opportunities.👀 💻 </br>
 
 • I'm originally from Thailand 🇹🇭 but I've been living around the DMV area for more than 3 yrs. </br>
-• I'm studying and doing great in Software Engineering at Flatiron School (It'll end on Sep). </br>
+• I recently graduated in Software Engineering from Flatiron School. </br>
 • I have been passionate about coding and IT since I was young. </br>
 • I used to be a Programmer in Thailand for 3 yrs and IT Specialist for 2 yrs. </br>
 • I'm a fast learner 🤓  and love learning new things.</br>
