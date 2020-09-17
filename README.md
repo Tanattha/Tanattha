@@ -1,6 +1,6 @@
 
 # Hi, my name is Tanattha Thuenim <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif" width="240" height="200" />
-#### • I'm Looking for software engineering related opportunities.👀 💻 </br>
+#### • I'm Looking for web and software developer related opportunities.👀 💻 </br>
 
 • I'm originally from Thailand 🇹🇭 but I've been living around the DMV area for more than 3 yrs. </br>
 • I recently graduated in Software Engineering from Flatiron School. </br>
