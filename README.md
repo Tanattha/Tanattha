@@ -1,7 +1,7 @@
 
 # Hi, my name is Tanattha Thuenim <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif" width="240" height="200" />
 
-• I'm originally from Thailand 🇹🇭 but I've been living around the DMV area for more than 3 yrs. </br>
+• I'm originally from Thailand 🇹🇭 but I've been living around the DMV area around 5 yrs. </br>
 • I've graduated in Software Engineering from Flatiron School. </br>
 • I have been passionate about coding and IT since I was young. </br>
 • I used to be a Programmer in Thailand for 3 yrs and IT Specialist for 2 yrs. </br>
