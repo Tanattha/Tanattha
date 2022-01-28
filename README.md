@@ -10,7 +10,7 @@
 ### 🔸 Feel free to take a look on my repositories or leave any comment.
 
 ## Contact me 👩🏻 📧 <img src="https://media.giphy.com/media/huDbeRCslqAWRJpRJA/giphy.gif" align="left" width="150" height="150"/>
-- [MY WEBSITE](http://www.tanattha.info)
+<!-- - [MY WEBSITE](http://www.tanattha.info) -->
 - [LINKEDIN](https://www.linkedin.com/in/tanattha-thuenim)</br>
 - [EMAIL](mailto:tanattha.thuenim@gmail.com")
 </br>
