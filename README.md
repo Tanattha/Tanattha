@@ -1,11 +1,10 @@
 
-# Hi, my name is Tanattha Thuenim <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif" width="240" height="200" />
+# Hi, my name is Bo - Tanattha Thuenim
 
-• I'm originally from Thailand 🇹🇭 but I've been living around the DMV area around 5 yrs. </br>
-• I've graduated in Software Engineering from Flatiron School. </br>
-• I have been passionate about coding and IT since I was young. </br>
-• I used to be a Programmer in Thailand for 3 yrs and IT Specialist for 2 yrs. </br>
-• I'm a fast learner 🤓  and love learning new things.</br>
+• I'm originally from Thailand 🇹🇭. </br>
+• I have been passionate about coding since I was young. </br>
+• I have 10+ years of experience in the IT field, working in both Thailand and the United States. </br>
+• I’m a fast learner 🤓 and love exploring new technologies and continuously improving my skills. </br>
 
 ### 🔸 Feel free to take a look on my repositories or leave any comment.
 
@@ -15,6 +14,3 @@
 - [EMAIL](mailto:tanattha.thuenim@gmail.com")
 </br>
 <hr>
-
-![Tanattha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanattha&hide=stars&count_private=true&show_icons=true&theme=buefy)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanattha&layout=compact&theme=buefy)
